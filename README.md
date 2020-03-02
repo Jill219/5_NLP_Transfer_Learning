@@ -1,4 +1,4 @@
-# 5 NLP and Transfer Learning Project  
+# 5. NLP and Transfer Learning Project  
 *12/2019*
 
 ### Objects:   
